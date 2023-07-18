@@ -6,6 +6,9 @@ This is an example app to generate images from a given prompt
 1. If you don't have Node.js installed, you will need to install it first. You can do that from [here](https://nodejs.org/en) or you can use [homebrew](https://brew.sh/)
 2. If you don't have Yarn installed, please install it first using [npm](https://classic.yarnpkg.com/en/docs/install) or [homebrew](https://formulae.brew.sh/formula/yarn)
 3. Clone this repository
+   ```
+   git clone https://github.com/CorridorOfFameAcademy/image-generator.git
+   ```
 4. Navigate into the project directory
    ```bash
    cd image-generator
