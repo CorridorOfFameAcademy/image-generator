@@ -1,6 +1,6 @@
 # Corridor of Fame Academy image-generator - Node.js Example
 
-This is an example app to generate images from a given prompt
+This is an example app to generate images from a given prompt using OpenAPIs API
 
 ## Getting Started
 1. If you don't have Node.js installed, you will need to install it first. You can do that from [here](https://nodejs.org/en) or you can use [homebrew](https://brew.sh/)
