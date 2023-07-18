@@ -14,7 +14,7 @@ This is an example app to generate images from a given prompt
    ```bash
    $ yarn install
    ```
-6. Make a copy of the example environment variable file
+6. Make a copy of the example environment variable file and rename to .env
    On Linux systems:
    ```bash
    $ copy .example.env .env
